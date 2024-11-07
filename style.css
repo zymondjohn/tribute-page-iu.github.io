@@ -65,7 +65,7 @@ nav img {
 #banner{
     height: 600px;
     max-width: 900px;
-    background: url("../iuLL.webp");
+    background: url("iuLL.webp");
     background-position: center; 
     background-size: cover;
     border-style: solid;
